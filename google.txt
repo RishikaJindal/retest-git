@@ -1,8 +1,8 @@
-Google LLC (/ˈɡuːɡəl/ ⓘ) IS an American multinational technology company focusing on
- artificial intelligence,[88] online advertising, search engine technology, cloud computing
- , computer software, quantum computing, E-commerce, and consumer electronics. It has been
-  referred to as "THE most powerful company in the world"[10] and as one of the world's most
-   valuable BRANDS due to its market dominance, data collection, and technological advantages
+Google LLC (/ˈɡuːɡəl/ ⓘ) is an American multinational technology company focusing on
+ artificial intelligence,[9] online advertising, search engine technology, cloud computing
+ , computer software, quantum computing, e-commerce, and consumer electronics. It has been
+  referred to as "the most powerful company in the world"[10] and as one of the world's most
+   valuable brands due to its market dominance, data collection, and technological advantages
     in the field of artificial intelligence.[11][12][13] Google's parent company Alphabet Inc. 
     is one of the five Big Tech companies
 , alongside Amazon, Apple Inc., Meta, and Microsoft.Google was
@@ -12,11 +12,11 @@ Google LLC (/ˈɡuːɡəl/ ⓘ) IS an American multinational technology company 
  ITS publicly listed shares and control 56% of its stockholder voting
   power through super-voting stock. THE company went public via an initial 
   public offering (IPO) in 2008. In 2015, Google was reorganized as a wholly
-   owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary 
-   and is a holding company for Alphabet's internet properties and interests.
-    Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing 
-    Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai a
-    lso became the CEO of Alphabet.[14]
+   owned subsidiary of Alphabet Inc. Google is Alphabet's laRGE subsidiary 
+   and is a holding company for Alphabet's interNETproperties and interests.
+    Sundar Pichai was appointed CEO of Google ON October 24, 2015, replacing 
+    Larry Page, who became the CEO OF Alphabet. On December 3, 2019, Pichai a
+    lso became the CEO of Alphabet.90
 
 The company has since rapidly grown to offer a multitude of products and services beyond Google Search, many of which hold dominant market positions. These products address a wide range of use cases, including email (Gmail), navigation (Waze & Maps), cloud computing (Cloud), web browsing (Chrome), video sharing (YouTube), productivity (Workspace), operating systems (Android), cloud storage (Drive), language translation (Translate), photo storage (Photos), video calling (Meet), smart home (Nest), smartphones (Pixel), wearable technology (Pixel Watch & Fitbit), music streaming (YouTube Music), video on demand (YouTube TV), artificial intelligence (Google Assistant & Bard), machine learning APIs (TensorFlow), AI chips (TPU), and more. Discontinued Google products include gaming
  (Stadia), Glass, Google+, Reader, Play Music, Nexus, Hangouts, an
